@@ -7,3 +7,4 @@ require 'net/http'
 require 'json' 
 require "pry"
 require'awesome_print'
+require 'colorize'
